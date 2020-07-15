@@ -1,4 +1,4 @@
-### Hi there 👋, my name is mohamad fazel, freelance web application developer especialized in Laravel and web based technologies.
+### Hi there 👋, my name is mohamad fazel, freelance web application developer specialized in Laravel and web based technologies.
 
 - I'm currently working on a finance management web application
 - Trying to learn more about software architecture and operating systems
