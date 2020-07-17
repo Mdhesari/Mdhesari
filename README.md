@@ -5,12 +5,12 @@
 - Planning to enhance vuejs and javascript knowledge and skills
 
 |￣￣￣￣￣￣￣￣￣￣| 
-|    DON'T FORGET        |
-|    TO DRINK                  |
-|    AND TAKE                 |
-|    REGULAR                  |
-|    BREAKS!                    |
-| ＿＿＿＿＿＿＿＿＿＿| 
+|    DON'T FORGET|
+|    TO DRINK    |
+|    AND TAKE    |
+|    REGULAR     |
+|    BREAKS!     |
+| ＿＿＿＿＿＿＿＿＿ | 
 (\__/)  || 
 (•ㅅ•) || 
 / 　 づ
