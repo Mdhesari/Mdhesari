@@ -4,6 +4,17 @@
 - Trying to learn more about software architecture and operating systems
 - Planning to enhance vuejs and javascript knowledge and skills
 
+|￣￣￣￣￣￣￣￣￣￣| 
+|    DON'T FORGET        |
+|    TO DRINK                  |
+|    AND TAKE                 |
+|    REGULAR                  |
+|    BREAKS!                    |
+| ＿＿＿＿＿＿＿＿＿＿| 
+(\__/)  || 
+(•ㅅ•) || 
+/ 　 づ
+
 #### Trying to reach me?
 
 [Linkedin](https://linkedin.com/mohamad-fazel-hesari) || [Twitter](https://twitter.com/mdhesari) || [Personal Website](https://mdhesari.com)
