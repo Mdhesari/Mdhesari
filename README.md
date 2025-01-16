@@ -16,10 +16,6 @@ I'm always excited to collaborate on interesting projects or mentor fellow devel
 
 Check out my articles on [Medium](https://medium.com/@mdhesari) where I share insights and experiences from my development journey.
 
-## 📊 GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=mdhesari&show_icons=true&theme=radical)
-
 ## 📫 Get in Touch
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohamad-fazel-hesari)
