@@ -1,6 +1,6 @@
 # Mohamad Fazel Hesari
 
-## Senior Backend Developer | Junior Software Engineer
+## Senior Backend Developer
 
 👋 Hi there! I'm a freelance web application developer specialized in Laravel and web-based technologies, with a growing passion for Golang and distributed systems.
 
